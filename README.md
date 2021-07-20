@@ -7,6 +7,8 @@ Used Libraies :
   - Kotlin Flows
   - Koin 
 
+Used API : https://randomuser.me/
+
 Result:
 
 
